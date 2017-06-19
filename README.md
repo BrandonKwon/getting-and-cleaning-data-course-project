@@ -1,4 +1,4 @@
-# getting-and-cleaning-data-course-project
+# Getting-and-cleaning-data-course-project
 Repository for Getting-and-cleaning-data-course-project
 
 ## Project Instruction
